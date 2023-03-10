@@ -11,8 +11,9 @@
   padding: 200px;
 }
 .datospersonales{
-  background-color: gray;
+  background-color: #212529;
   padding: 100px;
+  color: whitesmoke;
 }
 
 
@@ -24,11 +25,12 @@ form{
 .navegador {
   position: sticky;
   top: 0;
-  background-color: gray;
+  background-color: #343a40;
   display: flex;
   align-items: start;
   padding: 1rem;
   z-index: 2;
+  
 
 }
 /* @media (max-width: 30.625em) {
@@ -42,17 +44,19 @@ form{
  
 .entrenador1{
   padding: 100px;
+  background-color: #212529;
+  color: whitesmoke;
 }
 
 nav ul li {
-  list-style: none;
+  
   margin-left: 75px;
   padding: 22px 0;
   float: left;
   position: relative;
 }
 nav ul li a {
-  text-decoration: none;
+  text-decoration:dotted;
   color: #000;
 }
 .fondo-1{

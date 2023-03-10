@@ -8,7 +8,7 @@
 
 .contactanos{
   z-index: 1;
-  padding: 300px;
+  padding: 200px;
 }
 .datospersonales{
   background-color: gray;
@@ -40,7 +40,9 @@ form{
   }
 } */
  
-
+.entrenador1{
+  padding: 100px;
+}
 
 nav ul li {
   list-style: none;

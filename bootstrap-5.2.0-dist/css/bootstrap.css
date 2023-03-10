@@ -7,7 +7,7 @@
  */
 .contactanos{
   z-index: 1;
-  padding: 150px;
+  padding: 100px;
 }
 .datospersonales{
   background-color: gray;
@@ -40,26 +40,20 @@ form{
 nav ul li {
   list-style: none;
   margin-left: 75px;
-  padding: 30px 0;
+  padding: 22px 0;
   float: left;
   position: relative;
 }
 nav ul li a {
   text-decoration: none;
   color: #000;
-  
-
 }
-
-
-
 .fondo-1{
   background-color: var(--bs-red);
 }
 .datosx{
   text-align:center;
-  display: flex 0px;
-  
+  display: flex 0px; 
   padding: 50px;
   color:white;
   background-color:black ;

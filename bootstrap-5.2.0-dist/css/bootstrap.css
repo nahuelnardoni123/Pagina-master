@@ -5,9 +5,10 @@
  * Copyright 2011-2022 Twitter, Inc.
  * Licensed under MIT (https://github.com/twbs/bootstrap/blob/main/LICENSE)
  */
+
 .contactanos{
   z-index: 1;
-  padding: 100px;
+  padding: 300px;
 }
 .datospersonales{
   background-color: gray;
@@ -83,9 +84,7 @@ nav ul li a {
   text-align:left;
   display: flex 0px;
   margin-left: 400px;
-
-
- 
+  list-style: none;
 }
 .plantilla{
   text-align: center;
@@ -211,6 +210,7 @@ h6, .h6, h5, .h5, h4, .h4, h3, .h3, h2, .h2, h1, .h1 {
   margin-bottom: 0.5rem;
   font-weight: 500;
   line-height: 1.2;
+
 }
 
 h1, .h1 {
@@ -223,8 +223,10 @@ h2, .h2 {
 }
 
 
-h3, .h3 {
+h3 {
   font-size: calc(1.3rem + 0.6vw);
+  text-decoration: double;
+
 }
 
 

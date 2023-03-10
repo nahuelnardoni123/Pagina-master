@@ -9,6 +9,10 @@ function cambiarfondodocumento() {
   let contactanos = document.getElementsByTagName('div')[5];
   contactanos.style.backgroundColor = 'gray'
 }
+function cambiarfondodocumentob() {
+  let contactanos = document.getElementsByTagName('div')[5];
+  contactanos.style.backgroundColor = 'white'
+}
 
 
 

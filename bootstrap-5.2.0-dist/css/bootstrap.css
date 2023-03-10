@@ -5,7 +5,7 @@
  * Copyright 2011-2022 Twitter, Inc.
  * Licensed under MIT (https://github.com/twbs/bootstrap/blob/main/LICENSE)
  */
-
+ @media (max-width: 600px){
 .contactanos{
   z-index: 1;
   padding: 300px;
@@ -38,6 +38,7 @@ form{
 } */
  
 
+
 nav ul li {
   list-style: none;
   margin-left: 75px;
@@ -53,7 +54,7 @@ nav ul li a {
   background-color: var(--bs-red);
 }
 .datosx{
-  text-align:center;
+ 
   display: flex 0px; 
   padding: 50px;
   color:white;
@@ -74,16 +75,16 @@ nav ul li a {
 .fondo{
   background-image: url("https://www.hostinger.es/tutoriales/wp-content/uploads/sites/7/2018/11/what-is-html.jpg") ;
   display: flex 0;
-  text-align: center;
+  
   border-radius: 50px;
 }
 .titulo{
   text-align: center;
 } 
 .datosp{
-  text-align:left;
+  
   display: flex 0px;
-  margin-left: 400px;
+  
   list-style: none;
 }
 .plantilla{
@@ -196,7 +197,7 @@ body {
   -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
   font-family: 'calibri';
 }
-
+}
 hr {
   margin: 1rem 0;
   color: inherit;
